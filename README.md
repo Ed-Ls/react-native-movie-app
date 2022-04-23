@@ -4,7 +4,7 @@
 
 It's a small app to test React Native CLI. This IMDB-like app lets the users find movies by category, see movie details (with rating, release date, synopsis, genre) and launch their trailer (with Youtube video integrations) and search for specific movies or TV shows.
 
-[Live Demo](https://youtu.be/LYErhx-9kIk)
+[Live Demo](https://youtu.be/Kuq7CfI9ofc)
 
 ## How to run it
 
